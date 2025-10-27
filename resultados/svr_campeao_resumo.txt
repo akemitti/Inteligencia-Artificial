@@ -1,0 +1,5 @@
+SVR Campeão (RBF): C=10, epsilon=0.05, gamma=0.1
+Features: ['selic_432_lag1', 'selic_432_lag3', 'taxa_pf_d1_lag1', 'taxa_pf_d1_lag3', 'inad_pf_lag1']
+Treino desde: 2022-04-01
+Métricas teste: {'MAE': 0.26197536689663486, 'RMSE': 0.3355032073216211, 'R2': 0.1662516058388862}
+Previsão corrente t+3 (2025-05-01): 4.186%
